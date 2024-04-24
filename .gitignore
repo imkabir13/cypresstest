@@ -1,0 +1,15 @@
+# Cypress generated files
+/cypress/videos/
+/cypress/screenshots/
+
+# Cypress binary cache
+/.cache/
+
+# Cypress test results
+/mochawesome-report/
+
+# Ignore any other generated files or directories
+**/node_modules
+**/package-lock.json
+**/dist/
+**/build/
