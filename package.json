@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "cypress:run": "cypress run --spec 'cypress/e2e/1-getting-started/todo.cy.js'"
+    "cypress:run": "cypress run --record --key f5534c70-ce06-48cd-98e9-71b6840806fe --spec 'cypress/e2e/1-getting-started/todo.cy.js'"
   },
   "keywords": [],
   "author": "",
